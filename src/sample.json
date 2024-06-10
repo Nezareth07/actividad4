@@ -1,0 +1,10 @@
+[
+   {
+    "id": "1",
+    "nombre": "meta",
+    "tipo": "empresa",
+    "direccion": "usa",
+    "telefono": "01800000",
+    "email": "meta.com"
+   }
+]
